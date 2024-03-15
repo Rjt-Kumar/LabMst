@@ -1,5 +1,2 @@
 
-a = 5; 
-b = 4; 
-
-print(5*3)
+print("UID : 21BCS2871" + " Name: Rajat")
